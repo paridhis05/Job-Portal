@@ -1,0 +1,83 @@
+green-
+#415B5A
+
+mustard-
+#D7A30F
+
+light green-
+#CCE0DF
+
+
+
+
+light-light skyblue-
+#E1F3F5
+
+light skyblue-
+#BDDCDD
+
+skyblue-
+#1F9CAA
+
+black shade-
+#464543
+
+
+
+dark blue-purple-
+#421B9D
+
+light blue-purple-
+#E4D9FD
+
+black-purple-
+#817497
+
+light black-purple-
+#D0CDD7
+
+light black-
+#F2F2F2
+
+
+green-
+#81B69A
+
+light green-
+#B0D2C3
+
+light-light green-
+#E0EAE9
+
+black green-
+#AAA9A5
+
+
+
+blue-
+#3B7ADE
+
+blue-purple-
+#8A86F5
+
+blue-black-
+#BABDC9
+
+light-black-
+#F6F6F6
+
+
+black-
+#1F1F1F
+
+light green-
+#E5ECD7
+
+green-
+#B7CEC6
+
+light blue-
+#DDE8F5
+
+white shade-
+#FDFDFD
