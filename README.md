@@ -63,6 +63,14 @@ To run this project on your local machine:
 
 ## Screenshots
 
+![Job Portal!](./assets/images/image1.png "Home Page")
+
+![Job Portal!](./assets/images/image2.png "Home Page")
+
+![Job Portal!](./assets/images/image3.png "Profile Page")
+
+![Job Portal!](./assets/images/image4.png "Profile Page")
+
 
 ## Contributing
 
